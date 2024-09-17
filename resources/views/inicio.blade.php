@@ -22,13 +22,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+                    <a class="nav-link active" aria-current="page" href="/">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="carteleras.html">Carteleras</a>
+                    <a class="nav-link" href="carteleras">Carteleras</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="Sobre Nosotros.html">Sobre Nosotros</a>
+                    <a class="nav-link" href="Sobre-Nosotros">Sobre Nosotros</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" data-bs-toggle="modal" data-bs-target="#exampleModal">Iniciar sesión</a>

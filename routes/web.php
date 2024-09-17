@@ -22,8 +22,8 @@ Route::get('/Registro', function () {
 ///Area Sobre Nosotros
 /////////////////////////////////////
 
-Route::get('/Sobre Nosotros', function () {
-    return view('Sobre Nosotros');
+Route::get('/Sobre-Nosotros', function () {
+    return view('Sobre-Nosotros');
 });
 
 Route::get('/sobrenosotros-aptitudes-A', function () {
