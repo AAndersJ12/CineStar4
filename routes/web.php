@@ -6,6 +6,14 @@ use Illuminate\Support\Facades\Route;
 /// Area Home(inicio)
 /////////////////////////////////////
 
+Route::get('/dbconn', function () {
+    return view('dbconn');
+});
+
+/////////////////////////////////////
+/// Area Home(inicio)
+/////////////////////////////////////
+
 Route::get('/', function () {
     return view('inicio');
 });
