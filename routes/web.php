@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 /////////////////////////////////////
-/// Area Home(inicio)
+/// base de datos
 /////////////////////////////////////
 
 Route::get('/dbconn', function () {
