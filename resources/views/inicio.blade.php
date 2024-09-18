@@ -15,7 +15,7 @@
         <div>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-            <a class="navbar-brand" href="./index.html">
+            <a class="navbar-brand" href="/">
                 <img id="logo-navbar" src="./assets/media/img/Logo-CineStar-Sinfondo.png" alt="imagen">
             </a>
             </button>

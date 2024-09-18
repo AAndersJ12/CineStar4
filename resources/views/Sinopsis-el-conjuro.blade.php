@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/styleCineStar.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
-    <title>Sinopsis Nerve</title>
+    <title>Sinopsis El conjuro</title>
 </head>
     <body>
     <main>
@@ -14,20 +14,20 @@
             <div>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
-                <a class="navbar-brand" href="/">
+                <a class="navbar-brand" href="./index.html">
                     <img id="logo-navbar" src="./assets/media/img/Logo-CineStar-Sinfondo.png" alt="imagen">
                 </a>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="/">Inicio</a>
+                        <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="carteleras">Carteleras</a>
+                        <a class="nav-link" href="carteleras.html">Carteleras</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Sobre-Nosotros">Sobre Nosotros</a>
+                        <a class="nav-link" href="Sobre Nosotros.html">Sobre Nosotros</a>
                     </li>
                     <li class="nav-item">
                         <label for="toggle" id="iconito"><i class="fa-solid fa-sun"></i></label>
@@ -41,21 +41,21 @@
         </header>
         <section class="Sinopsis">
             <div>
-                <img src="./assets/media/billboards/Nerve-cartelera.jpg" alt="" srcset="" class="sinopsis-img">
+                <img src="./assets/media/billboards/El-conjuro-cartelera.jpg" alt="" srcset="" class="sinopsis-img">
             </div>
             <div class="Sinopsis-Datos">
-                <h2>Nerve</h2>
+                <h2>El conjuro</h2>
                     <h4>Sinopsis</h4>
-                        <p>Vee es una joven introvertida que comienza a concursar en Nerve siguiendo el consejo de su amiga Sydney. Se trata de un juego anónimo online que ofrece dinero a cambio de la superación de retos y que pronto supondrá un gran peligro para ella.</p>
+                        <p>Basada en hechos reales. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. Ed y Lorraine Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acuden a la llamada de una familia aterrorizada por la presencia en su granja de un ser maligno.</p>
                     <h4>Datos</h4>
-                        <p>Fecha de estreno: 27 de julio de 2016 (Estados Unidos)</p>
+                        <p>Fecha de estreno: 27 de septiembre de 2013 (Venezuela)</p>
                     <h4>Trailer</h4>
                     <video controls>
-                        <source src="./assets/media/trailers/Un-Juego-Sin-Reglas-Nerve-Tráiler-Oficial.mp4" type="video/mp4">
-                    </video>   
+                        <source src="./assets/media/trailers/El-Conjuro-Trailer.mp4" type="video/mp4">
+                    </video>     
             </div>
         </section>
-    </main>  
+    </main>
         <footer class="text-center text-lg-start" style="background-color: rgb(36, 36, 36); color: aliceblue;">
         <div class="container p-4">
         <div class="row">

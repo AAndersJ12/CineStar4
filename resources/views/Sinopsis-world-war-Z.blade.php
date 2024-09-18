@@ -14,20 +14,20 @@
             <div>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
-                <a class="navbar-brand" href="./index.html">
+                <a class="navbar-brand" href="/">
                     <img id="logo-navbar" src="./assets/media/img/Logo-CineStar-Sinfondo.png" alt="imagen">
                 </a>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
+                        <a class="nav-link" aria-current="page" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="carteleras.html">Carteleras</a>
+                        <a class="nav-link" href="carteleras">Carteleras</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Sobre Nosotros.html">Sobre Nosotros</a>
+                        <a class="nav-link" href="Sobre-Nosotros">Sobre Nosotros</a>
                     </li>
                     <li class="nav-item">
                         <label for="toggle" id="iconito"><i class="fa-solid fa-sun"></i></label>

@@ -130,8 +130,8 @@ Route::get('/Sinopsis-hallowen', function () {
     return view('Sinopsis-hallowen');
 });
 
-Route::get('/Sinopsis-intensamente-2', function () {
-    return view('Sinopsis-intensamente-2');
+Route::get('/Sinopsis-Intensamente-2', function () {
+    return view('Sinopsis-Intensamente-2');
 });
 
 Route::get('/Sinopsis-Joker', function () {
@@ -187,7 +187,7 @@ Route::get('/Sinopsis-Toy-story-4', function () {
 });
 
 Route::get('/Sinopsis-world-war-Z', function () {
-    return view('Sinopsis-');
+    return view('Sinopsis-world-war-Z');
 });
 
 

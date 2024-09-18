@@ -15,20 +15,20 @@
         <div>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-            <a class="navbar-brand" href="./index.html">
+            <a class="navbar-brand" href="/">
                 <img id="logo-navbar" src="./assets/media/img/Logo-CineStar-Sinfondo.png" alt="imagen">
             </a>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
+                    <a class="nav-link" aria-current="page" href="/">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="carteleras.html">Carteleras</a>
+                    <a class="nav-link" href="carteleras">Carteleras</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="Sobre-Nosotros-D.html">Sobre Nosotros</a>
+                    <a class="nav-link active" href="Sobre-Nosotros-D">Sobre Nosotros</a>
                 </li>
                 <li class="nav-item">
                     <label for="toggle" id="iconito"><i class="fa-solid fa-sun"></i></label>
@@ -45,22 +45,22 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="Sobre-Nosotros-D.html">Informacion Personal<span class="sr-only"></span></a>
+                    <a class="nav-link" href="Sobre-Nosotros-D">Informacion Personal<span class="sr-only"></span></a>
                     </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="sobrenosotros-habilidades-D.html">Habilidades <span class="sr-only"></span></a>
+                    <a class="nav-link active" href="sobrenosotros-habilidades-D">Habilidades <span class="sr-only"></span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="sobrenosotros-cursos-y-talleres-D.html">Cursos y Talleres</a>
+                    <a class="nav-link" href="sobrenosotros-cursos-y-talleres-D">Cursos y Talleres</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="sobrenosotros-experiencia-laboral-D.html">Experiencia Laboral</a>
+                    <a class="nav-link" href="sobrenosotros-experiencia-laboral-D">Experiencia Laboral</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="sobrenosotros-aptitudes-D.html">Aptitudes</a>
+                    <a class="nav-link" href="sobrenosotros-aptitudes-D">Aptitudes</a>
                 </li>
                 <li class="nav-item">
-                    <a href="sobrenosotros-habilidades-A.html" class="nav-link"><i class="fa-regular fa-user">Anderson Abreu</i></a>
+                    <a href="sobrenosotros-habilidades-A" class="nav-link"><i class="fa-regular fa-user">Anderson Abreu</i></a>
                 </li>
                 </ul>
             </div>
